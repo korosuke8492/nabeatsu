@@ -1,1 +1,1 @@
-"#Sekai no nabeatsu in Rust Lang" 
+"Initial content" 
